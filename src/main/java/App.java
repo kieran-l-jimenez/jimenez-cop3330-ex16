@@ -6,7 +6,7 @@ import java.util.Scanner;
  *  Copyright 2021 Kieran Jimenez
  */
 /*
- *           "Computing Simple Interest" output
+ *           "Legal Driving Age" output
  *What is your age? 15
  *You are not old enough to legally drive.
  *           Or
